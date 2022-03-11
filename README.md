@@ -16,7 +16,7 @@ Install using pip:
 $ pip install uvicorn
 $ pip install uvicorn[standard]
 
-API_USAGE : https://example.com/country-capital/<query-params>
+API_USAGE : https://example.com/country-capital/<"query-params">
 try adding your own query params to get desired results.
 
 Run the server:
